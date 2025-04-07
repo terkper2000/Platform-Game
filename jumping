@@ -1,4 +1,3 @@
-// Terkper movement with arrow keys
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
